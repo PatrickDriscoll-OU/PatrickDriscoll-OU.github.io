@@ -3,9 +3,9 @@ logo: "images/IMG_8557 (2).JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
  I am a MS in Geography and Environmental Sustainability with a concentration in Geospatial Technologies at University of Oklahoma and park aide with Sonoma County Parks.
+ I obtained my Bachelor's of Science in Environmental Science from Creighton University in 2020.
   <a href="https://www.linkedin.com/in/patrick-driscoll-264108203">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
