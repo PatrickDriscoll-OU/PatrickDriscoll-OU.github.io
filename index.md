@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [The Burning Question: California and the Camp Wildfire of 2018]([http://example.com/](https://storymaps.arcgis.com/stories/cffb4ae19cf24701a07849973f2bd0ea))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
