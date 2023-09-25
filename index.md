@@ -2,7 +2,7 @@
 
 ---
 
-### Maps, Code, and other Assignment s
+### Maps, Code, and other Assignments
 
 [Texas Mesonet IDW and Kriging Maps]
 <img src="images/IDW_Texas Layout.jpg"/>
