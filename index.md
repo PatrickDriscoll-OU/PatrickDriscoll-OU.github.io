@@ -4,7 +4,7 @@
 
 ### Maps, Code, and other Assignments
 
-[Texas Mesonet IDW and Kriging Maps]
+Texas Mesonet IDW and Kriging Maps
 <img src="images/IDW_Texas Layout.jpg"/>
 <img src="images/Kriging_Texas Layout.jpg"/>
 
