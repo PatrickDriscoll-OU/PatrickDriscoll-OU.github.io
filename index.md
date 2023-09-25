@@ -6,6 +6,8 @@
 
 [Texas Mesonet IDW and Kriging Maps](/sample_page)
 <img src="images/IDW_Texas Layout.jpg"/>
+<img src="images/Kriging_Texas Layout.jpg"/>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
