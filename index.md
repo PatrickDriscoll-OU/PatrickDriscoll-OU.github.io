@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Texas Mesonet IDW and Kriging Maps](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IDW_Texas Layout.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
