@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Maps, Code, and other Assignment s
 
 [Texas Mesonet IDW and Kriging Maps](/sample_page)
 <img src="images/IDW_Texas Layout.jpg"/>
@@ -19,7 +19,7 @@
 
 ---
 
-### Category Name 2
+### Links to Larger Projects
 
 - [The Burning Question: California and the Camp Wildfire of 2018](https://storymaps.arcgis.com/stories/cffb4ae19cf24701a07849973f2bd0ea)
 - [Project 2 Title](http://example.com/)
