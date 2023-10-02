@@ -10,7 +10,7 @@ Texas Mesonet IDW and Kriging Maps
 
 
 ---
-[Chicago Crime Hot Spot Analysis] (https://arcg.is/muWbe)
+[![Chicago Crime Hot Spot Analysis](images/PDriscoll_HotSpotAnalysis_ChicagoCrime.png)](https://arcg.is/muWbe)
 <img src="images/PDriscoll_HotSpotAnalysis_ChicagoCrime.png"/>
 
 ---
