@@ -10,8 +10,8 @@ Texas Mesonet IDW and Kriging Maps
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chicago Crime Hot Spot Analysis] (https://arcg.is/muWbe)
+<img src="images/PDriscoll_HotSpotAnalysis_ChicagoCrime.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
