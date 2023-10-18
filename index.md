@@ -23,7 +23,7 @@ Texas Mesonet IDW and Kriging Maps
 ### Links to Larger Projects
 
 - [The Burning Question: California and the Camp Wildfire of 2018](https://storymaps.arcgis.com/stories/cffb4ae19cf24701a07849973f2bd0ea)
-- [Project 2 Title](http://example.com/)
+- [Biological Invasions: A Zebra Mussel Case Study](Zebra_Mussels)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
