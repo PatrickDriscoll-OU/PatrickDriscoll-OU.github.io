@@ -8,8 +8,8 @@ In order to gather information concerning senate hearings, laws (drafts and publ
 
 ### 2. Presentation
 
-<iframe src="https://bluecast.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=33573f6a-0b20-4073-8391-aba60039ae3a&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+https://bluecast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2575fecc-33f9-4c7f-8611-ab98001052bd
 
-<iframe src="https://bluecast.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2575fecc-33f9-4c7f-8611-ab98001052bd&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+https://bluecast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33573f6a-0b20-4073-8391-aba60039ae3a
 
 For my senior capstone class, Senior Seminar, I recorded a video where I discuss the concepts of invasive species, my research, the impacts of Zebra Mussels, the transmission of these species through ballast water, policies of the Great Lakes, environmnetal policies concering the Great Lakes and their outcomes. I also recorded a video where I answered questions from my classmates and professors. Normally, this presentation would have been given in-person but was given at my house as campus was closed as a result of COVID-19.
