@@ -1,4 +1,4 @@
-## Biological Invasions: A Zebra Mussel Case Studt
+## Biological Invasions: A Zebra Mussel Case Study
 
 **Project description:** In May of 2019, Dr. Adam Sundberg (my advisor from Creighton University) and I started conducting research on the Zebra Mussel (Dreissena polymorpha). Below is a description of our project and the findings that we discovered.
 
