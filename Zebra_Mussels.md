@@ -8,8 +8,8 @@ In order to gather information concerning senate hearings, laws (drafts and publ
 
 ### 2. Presentation
 
-https://bluecast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33573f6a-0b20-4073-8391-aba60039ae3a
+<a href="https://bluecast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2575fecc-33f9-4c7f-8611-ab98001052bd"> View My Main Presnetation</a>
 
-https://bluecast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2575fecc-33f9-4c7f-8611-ab98001052bd
+<a href="https://bluecast.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=33573f6a-0b20-4073-8391-aba60039ae3a"> View My Answer Video</a>
 
 For my senior capstone class, Senior Seminar, I recorded a video where I discuss the concepts of invasive species, my research, the impacts of Zebra Mussels, the transmission of these species through ballast water, policies of the Great Lakes, environmnetal policies concering the Great Lakes and their outcomes. I also recorded a video where I answered questions from my classmates and professors. Normally, this presentation would have been given in-person but was given at my house as campus was closed as a result of COVID-19.
