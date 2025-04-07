@@ -1,7 +1,12 @@
 ## Portfolio
+---
+## About Me
+
+**Education:**
+I graduated from Creighton University in May, 2020. I double majored in two environmental science tracks, Golbal Environmental Systems and Environmental Policy, and minored in Sustainability.
+
 
 ---
-
 ### Maps, Code, and other Assignments
 
 Texas Mesonet IDW and Kriging Maps
