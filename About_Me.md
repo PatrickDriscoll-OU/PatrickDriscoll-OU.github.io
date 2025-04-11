@@ -9,7 +9,7 @@ I double majored in two environmental science tracks, Golbal Environmental Syste
 
 
 # Certifications
-National Outdoor Leadership School - Wilderness First Responder (NOLS - WFR) <img src="images/Adult, Child, Infant CPR, AED, and Airway Management2025-03-01T13_16_34.2540886Z.pdf"
+National Outdoor Leadership School - Wilderness First Responder (NOLS - WFR) <img src="images/Adult, Child, Infant CPR, AED, and Airway Management2025-03-01T13_16_34.2540886Z.pdf"/>
 National Outdoor Leadership School - Adult, Child, Infant CPR, AED, and Airway Management
 National Outdoor Leadership School - Epinephrine Auto-injector
 American Heart Association - Basic Life Support (AHA - BLS)
