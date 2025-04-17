@@ -1,6 +1,6 @@
 # About Me
 
-<b>Education:</b>
+**Education:**
 
 # Creighton University (August 2016 - May 2020)
 I double majored in two environmental science tracks, Golbal Environmental Systems and Environmental Policy, and minored in Sustainability. While at Creighton, I participated in the study abroad program where I traveled to Sydney, Australia for one semester from July - December of 2018. I graduated from Creighton University in May, 2020.
