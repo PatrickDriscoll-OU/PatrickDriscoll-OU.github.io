@@ -6,9 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   BayGeo. <br>
 
   # Links
+  <br>
   <a href="./About_Me.html"> More About Me </a>
+  <br>
   <a href="https://www.linkedin.com/in/patrick-driscoll-264108203">View My LinkedIn Profile</a> 
-
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
