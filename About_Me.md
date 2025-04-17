@@ -9,7 +9,7 @@ I double majored in two environmental science tracks, Golbal Environmental Syste
 
 
 # Certifications
-National Outdoor Leadership School - Wilderness First Responder (NOLS - WFR) <img src="images/Wilderness First Responder2025-03-01T13_17_18.7389245Z.pdf"/>
-National Outdoor Leadership School - Adult, Child, Infant CPR, AED, and Airway Management <img src="images/Adult, Child, Infant CPR, AED, and Airway Management2025-03-01T13_16_34.2540886Z.pdf"/>
-National Outdoor Leadership School - Epinephrine Auto-injector <img src="images/Epinephrine Auto-injector2025-03-01T13_16_46.9399997Z.pdf"/>
-American Heart Association - Basic Life Support (AHA - BLS) <img src="images/PatrickDriscoll_AHA-BLS_Certification-27March2025.pdf"/>
+National Outdoor Leadership School - Wilderness First Responder (NOLS - WFR) <img src="images/DriscollPatrick_NOLS_WildernessFirstResponder(WFR)Cert.PNG"/>
+National Outdoor Leadership School - Adult, Child, Infant CPR, AED, and Airway Management <img src="images/DriscollPatrick_NOLS_AdultChildInfantCPRAEDAirwayManagementCert.PNG"/>
+National Outdoor Leadership School - Epinephrine Auto-injector <img src="images/DriscollPatrick_NOLS_EpomephrineAuto-InjectorCert.PNG"/>
+American Heart Association - Basic Life Support (AHA - BLS) <img src="images/DriscollPatrick_AHA_BLSProviderCert.PNG"/>
